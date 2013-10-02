@@ -1,0 +1,11 @@
+var obj = {};
+var numbers = [5,4,3,2];
+
+for( var x = 0; x < numbers.length; x++){
+  var looped = numbers[x];
+}
+console.log(numbers[x])  
+  var double = function(number){
+      var doub = number * 2;
+        return doub;
+  };
